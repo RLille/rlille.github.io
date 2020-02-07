@@ -1,14 +1,35 @@
-This is a minimal example of a Jekyll-based website using [**knitr**](https://yihui.name/knitr/), [**blogdown**](https://github.com/rstudio/blogdown), and R Markdown, briefly documented at <https://bookdown.org/yihui/blogdown/jekyll.html>.
+# R Journal website
 
-You can actually serve the Jekyll website locally with R, and R Markdown posts can be compiled automatically, with the web pages being automatically refreshed in your web browser as well. To build the serve the website locally, you need to install **blogdown** (and Jekyll, of course) and call the `serve_site()` function:
+The R journal website is published using [github pages](http://pages.github.com/). This makes it easier to manage the articles in git, and the website automatically updated when the git repo is pushed to github.
 
-```r
-devtools::install_github("rstudio/blogdown")
-blogdown::serve_site()
+## Templates
+
+The overall layout for the site can be found in `layouts/defaults.html`.  The template is written using [liquid](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers), a simple templating system.
+
+## Building the site locally
+
+You'll need to install the jekyll ruby gem:
+
+```
+gem install jekyll
 ```
 
-After you are satisfied with the local preview, you can either just push the Markdown blog posts to your Github repo (e.g. the `gh-pages` branch), and let Github generate the website for you, or host the HTML files generated under the `_site/` directory on your own server.
+Then run the following command in the web site directory to preview the website http://localhost:4000
 
-The original website was created from `jekyll new .` under the root directory, which was part of the [official Jekyll repo](https://github.com/jekyll/jekyll). The additional code (mainly R code) in this repo is under the MIT License, and the [blog post](https://jekyll.yihui.name/2014/09/jekyll-with-knitr.html) I wrote is under the [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) International License.
+```
+jekyll serve --watch
+```
 
-The support for Jekyll is limitted in **blogdown**, and you may want to switch to Hugo, which is much better supported in **blogdown**.
+## Publishing new articles
+
+Modify `_config.yml`
+
+__Note__: `_config.yml` is only parsed once when you start jekyll, it's not automatically updated like when you modify html files. This means that whenever you add new articles you'll need to stop and restart jekyll to see the changes.
+
+## Publishing a new issue
+
+* In `_config.yml` move current `accepted` issue to correct name and add additional metadata. Delete all pdfs in `archive/accepted`
+
+* Create `archive/issue`, copy in `index.html` and `references.bib`
+
+* In `_layouts/default.html`, change the path to the current issue
