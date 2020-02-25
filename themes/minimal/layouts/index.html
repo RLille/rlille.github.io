@@ -3,7 +3,7 @@
 <main>
     <div class="intro">
         {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}"> {{ end }}
-        <h1 style="color:#d40000;"><img src="https://avatars1.githubusercontent.com/u/60702180" height="250"/>{{ .Site.Title }}</h1>
+        <h1 style="color:{{ .Site.Params.Accent }};">{{ .Site.Title }}</h1>
         <h2>{{ markdownify .Site.Params.Description }}</h2>
         {{ with .Content }} <div class="homepage-content text-justify">{{ . }}</div> {{ end }}
     </div>
