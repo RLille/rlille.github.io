@@ -6,20 +6,21 @@
     <description>Recent content in R on R Lille</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Bienvenue à R Lille</title>
+      <link>/post/2020-02-07-rlille-welcome/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2015/07/23/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/post/2020-02-07-rlille-welcome/</guid>
+      <description>Bonjour à toutes et tous,
+Pour information, depuis très récemment, il existe un groupe des utilisateurs du logiciel/langage R à Lille.
+ R Lille Vous utilisez R pour le travail et/ou le loisir ? Vous êtes curieux, débutant ou expert en R ? Vous êtes localisé sur Lille et sa périphérie, ou simplement de passage ?
+Et plus important encore, vous avez envie d’échanger sur R et les nombreuses possibilités qu’offre ce logiciel et ses plus de 17 milles extensions ?</description>
     </item>
     
   </channel>
