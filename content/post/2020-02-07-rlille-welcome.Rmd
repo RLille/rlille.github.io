@@ -34,7 +34,7 @@ knitr::include_graphics("https://raw.githubusercontent.com/RLille/logos/master/r
  
 L’idée du groupe (soutenu par le R Consortium, https://www.r-consortium.org/) est de mettre en relation les utilisateurs de R de Lille et sa région et ce peu importe le domaine d’application ou le niveau des utilisateurs en question.
 
-```{r, echo = FALSE, out.height = "150"}
+```{r, echo = FALSE, out.width = "50%"}
 knitr::include_graphics("https://raw.githubusercontent.com/RLille/logos/master/RConsortium_Horizontal_Pantone.png")
 ```
  
