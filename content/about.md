@@ -1,6 +1,6 @@
 ---
-description: Qu'est-ce que R Lille 
 title: À propos
+description: Qu'est-ce que R Lille ?
 ---
 
 R Lille est le groupe des utilisateurs de R de Lille (et sa région).
