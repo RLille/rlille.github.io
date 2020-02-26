@@ -28,7 +28,7 @@ publishDir = "../rlille.github.io"
 
 [[menu.main]]
     url = "/about/"
-    name = "À propos"
+    name = "À Propos"
     weight = 2
 
 [[menu.main]]

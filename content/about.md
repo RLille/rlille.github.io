@@ -1,5 +1,5 @@
 ---
-title: À propos
+title: À Propos
 description: Qu'est-ce que R Lille ?
 ---
 
