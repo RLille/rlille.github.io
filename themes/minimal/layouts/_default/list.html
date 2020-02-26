@@ -2,7 +2,7 @@
 
 <main>
 
-    <h2>{{ .Title }}</h2>
+    {{ with .Title }}<h2>{{ replace . "Posts" "Billets" }}</h2>{{ end }}
 
     {{ range (.Paginator 5).Pages }} {{ partial "list-item" . }} {{ end }}
 
