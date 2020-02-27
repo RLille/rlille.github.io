@@ -1,5 +1,10 @@
         <footer>
-            <p class="copyright text-muted">{{ .Site.Params.copyright | default "&copy; All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal) (modified by [Mickaël Canouil](https://github.com/mcanouil/rlille_website))." | markdownify }}</p>
+            <p class="copyright text-muted">
+                {{ .Site.Params.copyright | default "&copy; All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal) (modified by [Mickaël Canouil](https://github.com/mcanouil/rlille_website))." | markdownify }}
+            </p>
+            <p class="copyright text-muted">
+                Supported by <img height="20em" src="{{ .Site.Params.logoSupport }}">.
+            </p>
         </footer>
 
         {{ partial "body-close" . }}

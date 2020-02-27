@@ -19,7 +19,8 @@ publishDir = "../rlille.github.io"
     highlightStyle = "default"
     highlightLanguages = ["r", "go", "haskell", "kotlin", "scala", "swift"]
     dateFormat = "02-01-2006" # "2006-01-02"
-    profilePic = "https://avatars1.githubusercontent.com/u/60702180"
+    logo = "/logo/rlille_small.png"
+    logoSupport = "/logo/RConsortium_Horizontal_Pantone.png"
 
 [[menu.main]]
     url = "/"

@@ -3,11 +3,14 @@
 <main>
   <div class="intro">
     <h1 style="color:{{ .Site.Params.Accent }};">
-      <img height="200px" src="{{ .Site.Params.profilePic }}">
+      <img src="{{ .Site.Params.logo }}">
       </br>
       {{ .Site.Title }}
     </h1>
-    <h2>{{ markdownify .Site.Params.Description }}</h2>
+    <h2>
+      {{ markdownify .Site.Params.Description }}
+    </h2>
+    
     {{ with .Content }} <div class="homepage-content text-justify">{{ . }}</div> {{ end }}
   </div>
 </main>
