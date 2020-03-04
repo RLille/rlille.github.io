@@ -17,10 +17,7 @@ Bonjour à toutes et tous,
  
 Pour information, depuis très récemment, il existe un groupe des utilisateurs du logiciel/langage R à Lille.
 
-
-```{r, echo = FALSE, out.height = "150"}
-knitr::include_graphics("https://raw.githubusercontent.com/RLille/logos/master/rlille.png")
-```
+![](/logo/rlille_small.png)
 
 > **R Lille**
 > 
@@ -34,10 +31,8 @@ knitr::include_graphics("https://raw.githubusercontent.com/RLille/logos/master/r
  
 L’idée du groupe (soutenu par le R Consortium, https://www.r-consortium.org/) est de mettre en relation les utilisateurs de R de Lille et sa région et ce peu importe le domaine d’application ou le niveau des utilisateurs en question.
 
-```{r, echo = FALSE, out.width = "50%"}
-knitr::include_graphics("https://raw.githubusercontent.com/RLille/logos/master/RConsortium_Horizontal_Pantone.png")
-```
- 
+![](/logo/RConsortium_Horizontal_Pantone.png){width=50%}
+
 Ce groupe est présent sur la plateforme meetup : https://meetup.com/fr-FR/R-Lille/  
 Meetup (inscription gratuite) est un service permettant d’organiser des évènements au sein de groupe avec des thématiques données.
  
