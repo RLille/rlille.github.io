@@ -2,7 +2,7 @@
 title: '"Débuter" avec R en Commençant par le Début ...'
 author: Mickaël CANOUIL
 date: '2020-03-04'
-slug: débuter-avec-r
+slug: debuter-avec-r
 categories:
   - MeetUp
   - R
