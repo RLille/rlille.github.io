@@ -20,7 +20,7 @@ R Lille (le groupe des utilisateurs de R) organise son premier MeetUp :
 Celui-ci aura lieu le  
 REPORTÉ ~~**Vendredi 27 Mars entre 13h00 et 14h00**~~  
 dans  
-**l’Amphithéâtre A (aile Est) de la Faculté de Médecine de Lille (Pôle Recherche)**
+~~**l’Amphithéâtre A (aile Est) de la Faculté de Médecine de Lille (Pôle Recherche)**~~
 
 Les inscriptions sont par ici : https://www.meetup.com/fr-FR/R-Lille/events/269159363/
 
