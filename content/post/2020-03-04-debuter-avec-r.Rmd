@@ -24,7 +24,7 @@ dans
 
 Les inscriptions sont par ici : https://www.meetup.com/fr-FR/R-Lille/events/269159363/
 
-![](/post/2020-03-04-debuter-avec-r_files/rstartup.png){width=80%}
+![](/post/2020-03-04-debuter-avec-r/rstartup.png){width=80%}
 
 > Vous souhaitez démarrer avec de bonnes bases ?  
 > Vous suspectez que vous n'avez pas que des bonnes pratiques/habitudes ?  
