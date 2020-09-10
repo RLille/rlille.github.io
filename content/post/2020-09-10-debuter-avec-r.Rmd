@@ -17,16 +17,15 @@ Bonjour à toutes et tous,
 R Lille (le groupe des utilisateurs de R) organise son premier MeetUp :  
 **"Débuter" avec R en Commençant par le Début ...**
 
-Celui-ci aura lieu le  
-**Mercredi 7 Octobre à 12h00** 
-dans  
-**l’Amphithéâtre D (aile Ouest) de la Faculté de Médecine de Lille (Pôle Recherche)**
+Celui-ci aura lieu le **Mercredi 7 Octobre à 12h00** dans **l’Amphithéâtre D (aile Ouest) de la Faculté de Médecine de Lille (Pôle Recherche)**.
 
 Les inscriptions sont par ici : https://www.meetup.com/fr-FR/R-Lille/events/273159362/  
-Ce MeetUp n'est ouvert qu'à 30 participants.  
+Ce MeetUp n'est ouvert qu'à **30 participants**.  
 L'ensemble des diapositives sera mis à disposition sur le GitHub du groupe : https://github.com/RLille/meeting_materials
 
+<center>
 ![](/post/2020-09-10-debuter-avec-r/rstartup.png){width=80%}
+</center>
 
 > Vous souhaitez démarrer avec de bonnes bases ?  
 > Vous suspectez que vous n'avez pas que des bonnes pratiques/habitudes ?  
