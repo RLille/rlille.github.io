@@ -18,7 +18,7 @@ R Lille (le groupe des utilisateurs de R) organise son premier MeetUp :
 **"Débuter" avec R en Commençant par le Début ...**
 
 Celui-ci aura lieu le  
-REPORTÉ ~~**Vendredi 27 Mars entre 13h00 et 14h00**~~  
+REPORTÉ ~~**Vendredi 27 Mars entre 13 h 00 et 14 h 00**~~  
 dans  
 ~~**l’Amphithéâtre A (aile Est) de la Faculté de Médecine de Lille (Pôle Recherche)**~~
 
