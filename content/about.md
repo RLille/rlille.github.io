@@ -11,4 +11,4 @@ Vous êtes localisé sur Lille et sa périphérie, ou simplement de passage ?
 
 Et plus important encore, vous avez envie d'échanger sur R et les nombreuses possibilités qu'offre ce logiciel et ses plus de 17 milles extensions ?
 
-Si la réponse est "oui" à l'une de ses questions, rejoignez-nous sur [MeetUp](https://www.meetup.com/fr-FR/R-Lille/) sans plus tarder !
+Si la réponse est "oui" à l'une de ces questions, rejoignez-nous sur [MeetUp](https://www.meetup.com/fr-FR/R-Lille/) sans plus tarder !
