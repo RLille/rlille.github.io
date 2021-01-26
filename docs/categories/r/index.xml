@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on R Lille</title>
+    <link>https://rlille.github.io/categories/r/</link>
+    <description>Recent content in R on R Lille</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rlille.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;Débuter&#34; avec R en Commençant par le Début ...</title>
+      <link>https://rlille.github.io/post/2020-03-04-debuter-avec-r/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rlille.github.io/post/2020-03-04-debuter-avec-r/</guid>
+      <description>Bonjour à toutes et tous,
+R Lille (le groupe des utilisateurs de R) organise son premier MeetUp :
+“Débuter” avec R en Commençant par le Début …
+Celui-ci aura lieu le
+Vendredi 27 Mars entre 13h00 et 14h00
+dans
+l’Amphithéâtre A (aile Est) de la Faculté de Médecine de Lille (Pôle Recherche)
+Les inscriptions sont par ici : https://www.meetup.com/fr-FR/R-Lille/events/269159363/
+Vous souhaitez démarrer avec de bonnes bases ?
+Vous suspectez que vous n’avez pas que des bonnes pratiques/habitudes ?</description>
+    </item>
+    
+    <item>
+      <title>Bienvenue à R Lille</title>
+      <link>https://rlille.github.io/post/2020-02-07-rlille-welcome/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rlille.github.io/post/2020-02-07-rlille-welcome/</guid>
+      <description>Bonjour à toutes et tous,
+Pour information, depuis très récemment, il existe un groupe des utilisateurs du logiciel/langage R à Lille.
+R Lille
+Vous utilisez R pour le travail et/ou le loisir ?
+Vous êtes curieux, débutant ou expert en R ?
+Vous êtes localisé sur Lille et sa périphérie, ou simplement de passage ?
+Et plus important encore, vous avez envie d’échanger sur R et les nombreuses possibilités qu’offre ce logiciel et ses plus de 17 milles extensions ?</description>
+    </item>
+    
+  </channel>
+</rss>
