@@ -9,7 +9,7 @@ publishDir = "/docs"
 
 [params]
     author = "R Lille"
-    description = "Site internet du groupe des utilisateurs de R de Lille."
+    description = "Groupe des Utilisateurs de R de Lille."
     githubUsername = "RLille"
     accent = "#d40000"
     showBorder = true
