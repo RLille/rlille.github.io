@@ -6,7 +6,20 @@
     <description>Recent content in RUG on R Lille</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rlille.github.io/tags/rug/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rlille.github.io/tags/rug/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enseignement &amp; R</title>
+      <link>https://rlille.github.io/post/2021-02-12-enseignement-r/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rlille.github.io/post/2021-02-12-enseignement-r/</guid>
+      <description>Bonjour à toutes et tous,
+Pour ce premier MeetUp 2021, nous vous proposons une réunion orientée sur l&#39;enseignement et comment R peut y être utilisé.
+Nous avons en tête un moment d&amp;rsquo;échange sur vos pratiques, méthodes, outils, etc., plutôt en mode discussion que présentation.
+Si vous enseignez du R ou que vous utilisez ce langage pour construire vos cours et que vous aimeriez partager/discuter de votre expérience, inscrivez-vous !
+Ce MeetUp aura lieu en ligne (via Zoom), le Mercredi 17 Février à 12 h 30.</description>
+    </item>
+    
     <item>
       <title>&#39;flexdashboard&#39; Pour Des Tableaux de Bords (HTML) Interactifs</title>
       <link>https://rlille.github.io/post/2020-10-20-flexdasboard/</link>
@@ -30,7 +43,7 @@ R Lille (le groupe des utilisateurs de R) organise son second MeetUp :
 R Lille (le groupe des utilisateurs de R) organise son premier MeetUp :
 “Débuter” avec R en Commençant par le Début …
 Celui-ci aura lieu le Mercredi 7 Octobre à 12 h 00 dans l’Amphithéâtre D (aile Ouest) de la Faculté de Médecine de Lille (Pôle Recherche).
-Les inscriptions sont par ici : https://www.meetup.com/fr-FR/R-Lille/events/273159362/
+Les inscriptions sont par ici : https://www.meetup.com/R-Lille/events/273159362/
 Ce MeetUp n’est ouvert qu’à 30 participants.
 L’ensemble des diapositives sera mis à disposition sur le GitHub du groupe : https://github.</description>
     </item>
@@ -48,7 +61,7 @@ Celui-ci aura lieu le
 REPORTÉ Vendredi 27 Mars entre 13 h 00 et 14 h 00
 dans
 l’Amphithéâtre A (aile Est) de la Faculté de Médecine de Lille (Pôle Recherche)
-Les inscriptions sont par ici : https://www.meetup.com/fr-FR/R-Lille/events/269159363/
+Les inscriptions sont par ici : https://www.meetup.com/R-Lille/events/269159363/
 Vous souhaitez démarrer avec de bonnes bases ?</description>
     </item>
     

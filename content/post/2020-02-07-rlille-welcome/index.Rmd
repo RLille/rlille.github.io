@@ -34,7 +34,7 @@ L’idée du groupe (soutenu par le R Consortium, https://www.r-consortium.org/)
 
 ![](/logo/RConsortium_Horizontal_Pantone.png){width=50%}
 
-Ce groupe est présent sur la plateforme meetup : https://meetup.com/fr-FR/R-Lille/  
+Ce groupe est présent sur la plateforme meetup : https://meetup.com/R-Lille/  
 Meetup (inscription gratuite) est un service permettant d’organiser des évènements au sein de groupe avec des thématiques données.
  
 Le meilleur moyen d’être tenu au courant des événements de R Lille est de vous inscrire sur meetup pour recevoir les informations via la liste de diffusion du groupe.

@@ -23,8 +23,8 @@ Celui-ci est proposé par **Daniel Podevin** et aura lieu le **Vendredi 30 Octob
 
 Les inscriptions sont par ici :
 
-* En ligne : https://www.meetup.com/fr-FR/R-Lille/events/273921614/
-* En présentiel : https://www.meetup.com/fr-FR/R-Lille/events/274033022/
+* En ligne : https://www.meetup.com/R-Lille/events/273921614/
+* En présentiel : https://www.meetup.com/R-Lille/events/274033022/
 
 L'ensemble des diapositives sera mis à disposition sur le GitHub du groupe : https://github.com/RLille/meeting_materials
 
