@@ -6,7 +6,31 @@
     <description>Recent content in RUG on R Lille</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 12 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rlille.github.io/tags/rug/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rlille.github.io/tags/rug/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Build A Package With The &#34;Rmd First&#34; Method</title>
+      <link>https://rlille.github.io/post/rmd-first-method/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rlille.github.io/post/rmd-first-method/</guid>
+      <description>Bonjour à toutes et tous,
+R Lille organise un nouveau MeetUp sur le thème de la reproductibilité:
+How To Build A Package With The “Rmd First” Method
+[Résumé]Vous savez comment construire un Rmardown, on vous a dit ou vous aimeriez mettre votre travail dans un package R, mais vous pensez que c’est trop de travail ? Vous ne comprenez pas où mettre quoi et quand ?</description>
+    </item>
+    
+    <item>
+      <title>My Journey To Transparency And Reproducibility</title>
+      <link>https://rlille.github.io/post/journey-transparency/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rlille.github.io/post/journey-transparency/</guid>
+      <description>Bonjour à toutes et tous,
+R Lille organise un nouveau MeetUp sur le thème de la reproductibilité:
+My Journey To Transparency And Reproducibility
+[Résumé]Dans cette présentation, je (Mickaël Canouil, https://m.canouil.fr) vais vous conter mon parcours vers un environnement de travail plus transparent et reproductible. Je vais parler des changements et des améliorations que j’ai mis en œuvre dans mon équipe, détaillant la transition de l’infrastructure utilisée quand je suis arrivé à une infrastructure en utilisant Docker et l’extension R {renv}.</description>
+    </item>
+    
     <item>
       <title>Enseignement &amp; R</title>
       <link>https://rlille.github.io/post/2021-02-12-enseignement-r/</link>
@@ -28,7 +52,7 @@ Si vous enseignez du R ou que vous utilisez ce langage pour construire vos cours
       <description>Bonjour à toutes et tous,
 R Lille (le groupe des utilisateurs de R) organise son second MeetUp :
 ‘flexdashboard’ Pour Des Tableaux de Bords (HTML) Interactifs
-‘flexdashboard’ permet la réalisation de tableau de bords statiques ou dynamiques (‘Shiny’) au moyen d’une structure en grille définie dans un script Rmarkdown.
+‘flexdashboard’ permet la réalisation de tableau de bords statiques ou dynamiques (‘Shiny’) au moyen d’une structure en grille définie dans un script Rmarkdown.
 Celui-ci est proposé par Daniel Podevin et aura lieu le Vendredi 30 Octobre à 12 h 30 dans l’Amphithéâtre D (aile Ouest) de la Faculté de Médecine de Lille (Pôle Recherche).</description>
     </item>
     
@@ -41,10 +65,9 @@ R Lille (le groupe des utilisateurs de R) organise son second MeetUp :
       <description>Bonjour à toutes et tous,
 R Lille (le groupe des utilisateurs de R) organise son premier MeetUp :
 “Débuter” avec R en Commençant par le Début …
-Celui-ci aura lieu le Mercredi 7 Octobre à 12 h 00 dans l’Amphithéâtre D (aile Ouest) de la Faculté de Médecine de Lille (Pôle Recherche).
+Celui-ci aura lieu le Mercredi 7 Octobre à 12 h 00 dans l’Amphithéâtre D (aile Ouest) de la Faculté de Médecine de Lille (Pôle Recherche).
 Les inscriptions sont par ici : https://www.meetup.com/R-Lille/events/273159362/
-Ce MeetUp n’est ouvert qu’à 30 participants.
-L’ensemble des diapositives sera mis à disposition sur le GitHub du groupe : https://github.</description>
+Ce MeetUp n’est ouvert qu’à 30 participants.</description>
     </item>
     
     <item>
