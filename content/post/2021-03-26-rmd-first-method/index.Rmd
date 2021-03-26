@@ -18,7 +18,7 @@ description: ''
 
 Bonjour à toutes et tous,
  
-R Lille  organise un nouveau MeetUp sur le thème de la reproductibilité:  
+R Lille  organise un nouveau MeetUp sur le thème du développement à partir de Rmarkdown :  
 **How To Build A Package With The "Rmd First" Method**
 
 <center>

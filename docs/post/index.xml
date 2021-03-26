@@ -14,7 +14,7 @@
       
       <guid>https://rlille.github.io/post/2021-03-26-rmd-first-method/</guid>
       <description>Bonjour à toutes et tous,
-R Lille organise un nouveau MeetUp sur le thème de la reproductibilité:
+R Lille organise un nouveau MeetUp sur le thème du développement à partir de Rmarkdown :
 How To Build A Package With The “Rmd First” Method
 [Résumé]
 Vous savez comment construire un Rmardown, on vous a dit ou vous aimeriez mettre votre travail dans un package R, mais vous pensez que c’est trop de travail ? Vous ne comprenez pas où mettre quoi et quand ?</description>
@@ -27,7 +27,7 @@ Vous savez comment construire un Rmardown, on vous a dit ou vous aimeriez mettre
       
       <guid>https://rlille.github.io/post/2021-03-26-journey-transparency/</guid>
       <description>Bonjour à toutes et tous,
-R Lille organise un nouveau MeetUp sur le thème de la reproductibilité:
+R Lille organise un nouveau MeetUp sur le thème de la reproductibilité :
 My Journey To Transparency And Reproducibility
 [Résumé]
 Dans cette présentation, je (Mickaël Canouil, https://m.canouil.fr) vais vous conter mon parcours vers un environnement de travail plus transparent et reproductible. Je vais parler des changements et des améliorations que j’ai mis en œuvre dans mon équipe, détaillant la transition de l’infrastructure utilisée quand je suis arrivé à une infrastructure en utilisant Docker et l’extension R {renv}.</description>

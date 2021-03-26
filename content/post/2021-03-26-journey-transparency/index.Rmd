@@ -17,7 +17,7 @@ description: ''
 
 Bonjour à toutes et tous,
  
-R Lille  organise un nouveau MeetUp sur le thème de la reproductibilité:  
+R Lille  organise un nouveau MeetUp sur le thème de la reproductibilité :  
 **My Journey To Transparency And Reproducibility**
 
 <center>
