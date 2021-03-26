@@ -47,7 +47,7 @@ publishDir = "/docs"
     weight = 1
 
 [[menu.icon]]
-    url = "https://www.meetup.com/fr-FR/R-Lille/"
+    url = "http://meetup.rlille.fr"
     name = "meetup"
     weight = 2
 
