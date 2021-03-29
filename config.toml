@@ -50,6 +50,11 @@ publishDir = "/docs"
     url = "http://meetup.rlille.fr"
     name = "meetup"
     weight = 2
+    
+[[menu.icon]]
+    url = "https://twitter.com/rlille_rug/"
+    name = "twitter"
+    weight = 3
 
 [markup]
   [markup.goldmark]
