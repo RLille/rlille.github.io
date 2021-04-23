@@ -16,7 +16,7 @@
       <description>Bonjour à toutes et tous,
 R Lille organise un nouveau MeetUp sur le thème de la reproductibilité :
 My Journey To Transparency And Reproducibility
-[Résumé]
+[Résumé]
 Dans cette présentation, je (Mickaël Canouil, https://m.canouil.fr) vais vous conter mon parcours vers un environnement de travail plus transparent et reproductible. Je vais parler des changements et des améliorations que j’ai mis en œuvre dans mon équipe, détaillant la transition de l’infrastructure utilisée quand je suis arrivé à une infrastructure en utilisant Docker et l’extension R {renv}.</description>
     </item>
     
