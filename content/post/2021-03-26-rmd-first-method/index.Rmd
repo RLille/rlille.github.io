@@ -44,7 +44,7 @@ Les inscriptions sont sur Meetup : http://meetup.rlille.fr/events/277132394/
 
 L'ensemble des diapositives sera mis à disposition sur le GitHub du groupe : https://github.com/RLille/meeting_materials
 
-Le Meetup devrait être enrigistré et diffusé sur Youtube avec probablement un une diffusion en direct sur cette plateforme.
+Le Meetup sera enrigistré et diffusé sur Youtube (http://youtube.rlille.fr/).
 
 À bientôt !  
-Mathilde BOISSEL, Julien HAMONIER et Mickaël CANOUIL
+Mickaël CANOUIL
