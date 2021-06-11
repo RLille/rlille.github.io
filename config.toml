@@ -52,9 +52,14 @@ publishDir = "/docs"
     weight = 2
     
 [[menu.icon]]
+    url = "http://youtube.rlille.fr"
+    name = "youtube"
+    weight = 3
+    
+[[menu.icon]]
     url = "https://twitter.com/rlille_rug/"
     name = "twitter"
-    weight = 3
+    weight = 4
 
 [markup]
   [markup.goldmark]
