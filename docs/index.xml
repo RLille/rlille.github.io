@@ -16,7 +16,7 @@
       <description>Bonjour à toutes et tous,
 R Lille organise un nouveau MeetUp sur le thème de la reproductibilité des analyses :
 Reproducible Computation at Scale in R with {targets}
--- ----[Résumé]
+----[Résumé]
 L’extension R {targets} (https://docs.ropensci.org/targets/) améliore la reproductibilité, la mise à l’échelle et la maintenabilité des projets de science des données dans des domaines utilisants des méthodes de calcul intensif tels que l’apprentissage automatique, l’analyse de données bayésiennes et la statistique génomique.</description>
     </item>
     
